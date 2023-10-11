@@ -46,3 +46,4 @@
 3. git branch -d (branch_name) - команда удаляет уже слитую ветку.
 4. git checkout (branch_name) - команда перемещает вас на другую ветку.
 5. git merge (branch_name) - команда сливает вместе ветки.
+6. git branch (brabch_name) - создать новую ветку.
